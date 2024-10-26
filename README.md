@@ -12,4 +12,4 @@
 
 **Step 3:** Run the python script ``python chrome.py``
 
-*``Doing this will give you a JSON file with the info``*
+***```Doing this will give you a logins.json file with the info```***
