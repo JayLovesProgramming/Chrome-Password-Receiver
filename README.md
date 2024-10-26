@@ -6,8 +6,8 @@
 - pycryptodome
 
 # How to use?
-*Step 1:* Git clone the repo
+**Step 1:** Git clone the repo
 
-*Step 2:* Run the ``requirements.bat`` to easily install the packages required, there's `2` packages you need to download for this py script
+**Step 2:** Run the ``requirements.bat`` to easily install the packages required, there's `2` packages you need to download for this py script
 
-*Step 3:* Run the python script ``python chrome.py``
+**Step 3:** Run the python script ``python chrome.py``
