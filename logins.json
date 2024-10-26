@@ -3,5 +3,10 @@
         "origin_url": "https://practicetestautomation.com/practice-test-login/",
         "username": "student",
         "password": "Password123"
+    },
+    {
+        "origin_url": "https://www.facebook.com/login/",
+        "username": "dadaadaad",
+        "password": "adadaad"
     }
 ]
