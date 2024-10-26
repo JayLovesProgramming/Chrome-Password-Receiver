@@ -13,3 +13,8 @@
 **Step 3:** Run the python script ``python chrome.py``
 
 ***```Doing this will give you a logins.json file with the info```***
+
+## What have I taken from this?
+- I will never save Chrome passwords ever again through their default method. It's shit.
+- I no longer use Chrome, I now use Firefox cause it seems like their methods of encryption is much better, correct me please if I am wrong on Discord @jw_uk
+- It is incredibly easy to decrypt and that is a concern of mine because from my knowledge their encryption method "improved" but it appears false
